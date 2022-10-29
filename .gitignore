@@ -2,6 +2,7 @@ pred_figs/
 processed/
 public-code/
 .idea/
+experiments/pedestrians/models/
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
